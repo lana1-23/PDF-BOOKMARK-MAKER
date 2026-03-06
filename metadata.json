@@ -1,0 +1,5 @@
+{
+  "name": "PDF Bookmark Master",
+  "description": "Automatically extract table of contents from PDFs and embed bookmarks with manual correction.",
+  "requestFramePermissions": []
+}
